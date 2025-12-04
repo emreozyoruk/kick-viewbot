@@ -1,4 +1,4 @@
-websockets
+websockets==13.1
 streamlink
 fake-useragent
 tls-client
